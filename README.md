@@ -10,7 +10,6 @@
 | :--- | :--- | :--- | :--- |
 | **1주차** | 2026.03.13 | `모듈,패키지 실습파일`<br>`과제01_Rocket,Titanic.ipynb` | - 파이썬 모듈 시스템 및 패키지 구조화 실습<br>- 외부 API 호출을 통한 ETL 프로세스 구현 기초 |
 | **2주차** | 2026.03.20 | `python_class_faker,tom_jerry.ipynb`<br>`seaborntips.ipynb` | - 클래스(Class) 설계 및 객체지향 프로그래밍 실습<br>- Seaborn 라이브러리를 활용한 데이터 샘플링 실습 |
-| **3월 과제** | 2026.03.23 | **EDA 프로젝트 (25%)**<br>`EDA_혈액헌혈_코랩코드.ipynb`<br>`EDA_보고서_혈액헌혈_이지원_2555031.pdf` | - 공공 데이터를 활용한 탐색적 데이터 분석(EDA)<br>- 데이터 시각화 및 분석 결과 보고서 작성 |
 | **분석 실습** | **-** | `customer_data_preprocessing.ipynb`<br>`Preprocessing_Skewed_Data_Transformation.ipynb`<br>`Standardization_Analysis_of_human_data.ipynb` | - 실무 데이터 클렌징 및 전처리 기법 학습<br>- 데이터 표준화 및 왜곡 데이터 변환 분석 |
 
 ---
