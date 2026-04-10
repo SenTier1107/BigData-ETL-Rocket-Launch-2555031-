@@ -6,11 +6,11 @@
 | 구분 | 날짜 | 주요 실습 및 과제 | 상세 내용 |
 | :--- | :--- | :--- | :--- |
 | **1<br>주<br>차** | 2026.03.13 | `모듈,패키지 실습파일`<br>`과제01_Rocket,Titanic.ipynb` | - 파이썬 모듈 시스템 및 패키지 구조화 실습<br>- 외부 API 호출을 통한 ETL 프로세스 구현 기초 |
-| **2주차** | 2026.03.20 | `python_class_faker,tom_jerry.ipynb`<br>`seaborntips.ipynb` | - 클래스(Class) 설계 및 객체지향 프로그래밍 실습<br>- Seaborn 라이브러리를 활용한 데이터 샘플링 실습 |
+| ***2<br>주<br>차** | 2026.03.20 | `python_class_faker,tom_jerry.ipynb`<br>`seaborntips.ipynb` | - 클래스(Class) 설계 및 객체지향 프로그래밍 실습<br>- Seaborn 라이브러리를 활용한 데이터 샘플링 실습 |
 | **3월 과제** | 2026.03 | [`EDA-Project_Blood-Donation-Analysis`](https://github.com/SenTier1107/EDA-Project_Blood-Donation-Analysis_2026) | - 헌혈 데이터 EDA 프로젝트<br>- 🔗 링크를 클릭하면 해당 프로젝트 저장소로 이동합니다 |
-| **3주차** | 2026.03.27 | `0327_REST_API_DataFrame_Gradio_Gemini.py` | - REST API를 활용한 웹 데이터 수집 및 서버 헤더 분석<br>- JSON 데이터 → Pandas DataFrame 변환 및 가공<br>- Gradio UI를 활용한 실시간 데이터 필터링 및 통계분석 대시보드 구현<br>- 서울시 공공자전거(따릉이) 3개월 데이터 병합 및 시각화<br>- Gemini AI(google.colab.ai)를 활용한 영→한 번역 서비스 구현 |
-| **4주차** | 2026.04.03 | `AppDev1_Web_Crawling_Scraping_Lab.ipynb` | - BeautifulSoup를 활용한 정적 웹사이트 크롤링 및 스크래핑<br>- Python I/O 유형(Text/Binary/Raw) 및 with 구문 실습<br>- Books to Scrape 사이트에서 카테고리별 도서 데이터 수집 및 정규분포 검정(Q-Q Plot, Shapiro-Wilk)<br>- quotes.toscrape 사이트 텍스트 마이닝 및 CountVectorizer 인코딩 실습 |
-| **5주차** | 2026.04.10 | `NaverWebtoon_Scraping.ipynb` | - 정적 크롤링(BeautifulSoup) vs 동적 크롤링(Selenium) 비교 실험<br>- React 기반 SPA(네이버 웹툰) 동적 크롤링 실습<br>- Selenium + headless Chrome을 활용한 "이달의 신규 웹툰" 제목·작가·내용 스크래핑<br>- WebDriverWait를 활용한 명시적 대기 및 CSS 부분 매칭 셀렉터 활용 |
+| ***3<br>주<br>차** | 2026.03.27 | `0327_REST_API_DataFrame_Gradio_Gemini.py` | - REST API를 활용한 웹 데이터 수집 및 서버 헤더 분석<br>- JSON 데이터 → Pandas DataFrame 변환 및 가공<br>- Gradio UI를 활용한 실시간 데이터 필터링 및 통계분석 대시보드 구현<br>- 서울시 공공자전거(따릉이) 3개월 데이터 병합 및 시각화<br>- Gemini AI(google.colab.ai)를 활용한 영→한 번역 서비스 구현 |
+| ***4<br>주<br>차** | 2026.04.03 | `AppDev1_Web_Crawling_Scraping_Lab.ipynb` | - BeautifulSoup를 활용한 정적 웹사이트 크롤링 및 스크래핑<br>- Python I/O 유형(Text/Binary/Raw) 및 with 구문 실습<br>- Books to Scrape 사이트에서 카테고리별 도서 데이터 수집 및 정규분포 검정(Q-Q Plot, Shapiro-Wilk)<br>- quotes.toscrape 사이트 텍스트 마이닝 및 CountVectorizer 인코딩 실습 |
+| ***5<br>주<br>차** | 2026.04.10 | `NaverWebtoon_Scraping.ipynb` | - 정적 크롤링(BeautifulSoup) vs 동적 크롤링(Selenium) 비교 실험<br>- React 기반 SPA(네이버 웹툰) 동적 크롤링 실습<br>- Selenium + headless Chrome을 활용한 "이달의 신규 웹툰" 제목·작가·내용 스크래핑<br>- WebDriverWait를 활용한 명시적 대기 및 CSS 부분 매칭 셀렉터 활용 |
 | **분석 실습** | **-** | `customer_data_preprocessing.ipynb`<br>`Preprocessing_Skewed_Data_Transformation.ipynb`<br>`Standardization_Analysis_of_human_data.ipynb` | - 실무 데이터 클렌징 및 전처리 기법 학습<br>- 데이터 표준화 및 왜곡 데이터 변환 분석 |
 ---
 ## 🛠 Tech Stack
