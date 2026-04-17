@@ -1,6 +1,6 @@
 # 📦 6주차 실습 — FastAPI 입문을 위한 파이썬 핵심 개념
 
-> **수업일**: 2026.04.17 &nbsp;|&nbsp; **환경**: Google Colab (Python 3.10+)
+> **환경**: Google Colab (Python 3.10+)
 
 ---
 
