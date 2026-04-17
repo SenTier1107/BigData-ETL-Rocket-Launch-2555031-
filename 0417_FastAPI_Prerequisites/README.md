@@ -9,8 +9,8 @@
 | 파일 | 설명 |
 |------|------|
 | `Python_Backend_Essentials_for_FastAPI.ipynb` | 개념 정리 보고서 — 데코레이터, 타입 힌트, Pydantic, SQLite3, Async, Gradio |
-| `04_17_실습과제.ipynb` | 실습과제 모음 — SQLite3 CRUD, 모듈화 리팩토링, Pydantic 변환 |
-| `gradio_crud.py` | 실습과제 1 Gradio CRUD 대시보드 |
+| `04_17_실습과제.ipynb` | 04/17 실습과제 정리 — SQLite3 CRUD, 모듈화 리팩토링, Pydantic 변환 |
+| `gradio_crud.ipynb` | 추가 실습과제 1 Gradio CRUD 대시보드 |
 
 ---
 
