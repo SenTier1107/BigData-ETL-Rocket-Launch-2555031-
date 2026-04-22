@@ -3,11 +3,10 @@
 ## 파일 구성
 
 ```
-week7/
+FastAPI
 ├── server.py          ← FastAPI 서버 (API 엔드포인트 정의)
 ├── CRUD.py            ← 클라이언트 (서버에 요청 보내기)
-├── 0422_sync_async.ipynb   ← 동기/비동기 개념 실습 (Jupyter)
-└── README.md               ← 이 파일
+└── README.md               
 ```
 
 ---
