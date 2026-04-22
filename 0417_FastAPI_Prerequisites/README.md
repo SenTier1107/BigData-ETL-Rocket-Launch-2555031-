@@ -1,10 +1,10 @@
-# 📦 6주차 실습 — FastAPI 입문을 위한 파이썬 핵심 개념
+# FastAPI 입문을 위한 파이썬 핵심 개념
 
 > **환경**: Google Colab (Python 3.10+)
 
 ---
 
-## 📁 파일 구성
+##  파일 구성
 
 | 파일 | 설명 |
 |------|------|
@@ -14,7 +14,7 @@
 
 ---
 
-## 📚 학습 내용
+##  학습 내용
 
 ### 1. 데코레이터 (Decorator)
 - 함수를 인자로 받아 기능을 추가하거나 변형하는 함수
@@ -53,7 +53,7 @@
 
 ---
 
-## 🛠️ 실습과제
+##  실습과제
 
 ### 실습과제 1 — CSV → SQLite3 CRUD
 `customers.csv`를 읽어와 DB를 만들고 `customers` 테이블에 CRUD 구현
@@ -66,7 +66,7 @@
 
 ---
 
-## 🗄️ Gradio CRUD Dashboard (`gradio_crud.py`)
+## Gradio CRUD Dashboard (`gradio_crud.py`)
 
 `customers.csv` 기반 SQLite3 DB를 Gradio UI로 조작하는 대시보드
 
@@ -96,7 +96,7 @@ python gradio_crud.py
 
 ---
 
-## ⚙️ 실행 환경
+##  실행 환경
 
 ```
 Python      3.10+
