@@ -1,18 +1,18 @@
-# 🚀 FastAPI 실습 가이드 — 7주차
+#  FastAPI 실습 가이드 
 
-## 📁 파일 구성
+## 파일 구성
 
 ```
 week7/
-├── main_server.py          ← FastAPI 서버 (API 엔드포인트 정의)
-├── main_CRUD.py            ← 클라이언트 (서버에 요청 보내기)
+├── server.py          ← FastAPI 서버 (API 엔드포인트 정의)
+├── CRUD.py            ← 클라이언트 (서버에 요청 보내기)
 ├── 0422_sync_async.ipynb   ← 동기/비동기 개념 실습 (Jupyter)
 └── README.md               ← 이 파일
 ```
 
 ---
 
-## ⚙️ 환경 설정 (최초 1회)
+##  환경 설정 (최초 1회)
 
 아나콘다 base 환경 기준. VSCode 터미널에서 실행하세요.
 
@@ -24,7 +24,7 @@ pip install fastapi uvicorn httpx
 
 ---
 
-## ▶️ 실행 방법
+##  실행 방법
 
 **터미널을 2개** 열어야 합니다. VSCode에서 터미널 탭을 하나 더 추가하세요.
 
@@ -55,7 +55,7 @@ python main_CRUD.py
 
 ---
 
-## 🌐 접속 주소
+##  접속 주소
 
 | 주소 | 설명 |
 |------|------|
@@ -64,7 +64,7 @@ python main_CRUD.py
 | `http://localhost:8000/redoc` | ReDoc — 문서 형태로 보기 |
 | `http://localhost:8000/items/` | 전체 상품 목록 |
 
-> 💡 **Swagger UI(`/docs`)를 꼭 열어보세요!** 코드 없이 브라우저에서 바로 API를 테스트할 수 있습니다.
+>  **Swagger UI(`/docs`)를 꼭 열어보세요!** 코드 없이 브라우저에서 바로 API를 테스트할 수 있습니다.
 
 ---
 
@@ -82,7 +82,7 @@ python main_CRUD.py
 
 ---
 
-## 🔑 핵심 개념 요약
+## 핵심 개념 요약
 
 ### Path Parameter vs Query Parameter
 
@@ -117,7 +117,7 @@ price에 `"abc"` 같은 문자열을 보내면 FastAPI가 자동으로 `422 Unpr
 
 ---
 
-## 🛑 서버 종료
+##  서버 종료
 
 터미널 1에서 `Ctrl + C`를 누르면 서버가 종료됩니다.
 
